@@ -12,7 +12,7 @@ const Header = () => {
                     <path transform="translate(704 1221)" d="m0 0h2.49c2.75-0.01 5.5-0.01 8.24-0 1.98-0 3.95-0.01 5.92-0.01h16.1c5.61 0.01 11.2 0 16.8 0 9.43 0 18.9 0 28.3 0.01 10.9 0 21.8 0 32.6-0.01h28.1 16.7c5.26 0 10.5 0 15.8 0.01 1.92-0 3.84-0 5.76-0.01 21.2-0.02 21.2-0.02 27.9 1.14l1 1c-0.04 11.6-0.89 22.8-4 34-0.32 1.19-0.65 2.39-0.99 3.63-4.24 14-11.3 26.4-21 37.4-0.66 0.8-1.32 1.61-2 2.44-17.7 20.8-43.3 33.3-70.3 36.2-23.6 1.82-45.1-2.19-65.7-13.6-0.91-0.5-1.82-0.99-2.77-1.5-25.3-14.4-42.6-37.1-51.2-64.7-2.89-10.6-5.38-21.8-4.04-32.8 4.15-4.15 10.8-3.15 16.3-3.13z" fill="#0D1012" />
                 </svg>
                 <a className="flex title-font font-medium items-center text-indigo-900 mb-4 md:mb-0">
-                    <span className="ml-3 text-xl text-base">Remainders</span>
+                    <span className="ml-3 text-xl">Remainders</span>
                 </a>
                 <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
                     <Link href="/" className="mr-5 hover:text-gray-900">Home</Link>
